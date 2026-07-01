@@ -1,0 +1,6 @@
+{
+  "name": "CRM, Billing & Support Portal",
+  "description": "Comprehensive client portal featuring CRM lead funnels, billing with simulated payment gateways (Stripe, PayPal, Mercado Pago, Wompi), technical support ticketing, automatic SMS/email loggers, real-time metrics, and advanced compliance audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
